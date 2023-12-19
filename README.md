@@ -3,9 +3,9 @@
 This repository contains a simple HTML and CSS code for a stylish and animated button. The button features a unique design with a skew effect and a pulsating arrow animation upon hover.
 
 ## Table of Contents
-[Preview] (#preview)
-[Getting-Started] (#getting-started)
-[Customization] (#customisation)
+- [Preview] (#preview)
+- [Getting-Started] (#getting-started)
+- [Customization] (#customisation)
 
 ## Preview
 You can see a live preview here (replace with the actual link to your live demo).
@@ -24,11 +24,11 @@ To use this animated button in your project, follow these simple steps:
 ## Customization
 You can customize the button's appearance by adjusting the CSS variables defined in the style.css file. The :root selector contains the following variables:
 
---bg-color: Background color of the container.
---box-shadow-color: Box shadow color of the button.
---button-color: Background color of the button.
---arrow-nd-para-color: Color of the arrow and paragraph inside the button.
---hover-color: Color of the box shadow on hover.
+- --bg-color: Background color of the container.
+- --box-shadow-color: Box shadow color of the button.
+- --button-color: Background color of the button.
+- --arrow-nd-para-color: Color of the arrow and paragraph inside the button.
+- --hover-color: Color of the box shadow on hover.
 Feel free to modify these variables to match your project's color scheme.
 
 
