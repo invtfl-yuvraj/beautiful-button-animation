@@ -8,7 +8,8 @@ This repository contains a simple HTML and CSS code for a stylish and animated b
 - [Customization](#customization)
 
 ## Preview
-You can see a live preview here (replace with the actual link to your live demo).
+You can see a live preview here :
+https://invtfl-yuvraj.github.io/beautiful-button-animation/
 
 ## Getting Started
 To use this animated button in your project, follow these simple steps:
