@@ -3,9 +3,9 @@
 This repository contains a simple HTML and CSS code for a stylish and animated button. The button features a unique design with a skew effect and a pulsating arrow animation upon hover.
 
 ## Table of Contents
-- [Preview] (#preview)
-- [Getting-Started] (#getting-started)
-- [Customization] (#customisation)
+- [Preview](#preview)
+- [Getting-Started](#getting-started)
+- [Customization](#customization)
 
 ## Preview
 You can see a live preview here (replace with the actual link to your live demo).
