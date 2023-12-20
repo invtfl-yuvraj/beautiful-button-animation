@@ -62,6 +62,7 @@
     width: 14rem;
     box-shadow: 0.5rem 0.5rem var(--hover-color);
    transform: skewX(-10deg) translateZ(0);  /* fixing a hover bug i.e. lines being left at top and bottom edges of button when not hovering anymore */
+   cursor: pointer;
 }
 
 .btn:hover .arrow {
