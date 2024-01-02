@@ -17,7 +17,7 @@ To use this animated button in your project, follow these simple steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/animated-button.git
+    git clone https://github.com/invtfl-yuvraj/beautiful-button-animation.git
 2. Open the index.html file in your preferred web browser.
 
 3. Explore the animated button and experience the hover animations.
